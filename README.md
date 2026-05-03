@@ -1,4 +1,4 @@
-# Yelp Sentiment Analysis — Hospitality Reviews
+# Yelp Sentiment Analysis - Hospitality Reviews
 
 A lexicon-based NLP project applying VADER sentiment analysis to 3,000 Yelp 
 hospitality reviews to extract actionable service insights.
@@ -17,12 +17,12 @@ and customer satisfaction.
 
 ## Methodology
 
-1. **Data loading and subsampling** — reproducible random sample (seed = 42)
-2. **Preprocessing pipeline** — tokenisation (RegexpTokenizer), stopword removal 
+1. **Data loading and subsampling** - reproducible random sample (seed = 42)
+2. **Preprocessing pipeline** - tokenisation (RegexpTokenizer), stopword removal 
    (NLTK), stemming (PorterStemmer)
-3. **Sentiment scoring** — VADER applied to raw text to preserve punctuation, 
+3. **Sentiment scoring** - VADER applied to raw text to preserve punctuation, 
    capitalisation, and intensifiers
-4. **Exploratory analysis** — histograms, boxplots, frequency distributions, 
+4. **Exploratory analysis** - histograms, boxplots, frequency distributions, 
    wordclouds for positive, negative, and neutral classes
 
 ## Key Findings
@@ -62,4 +62,4 @@ businesses detect service failures early and reinforce successful service patter
 
 ## Author
 
-Amarachukwu Iku — MSc Data Science, University of Salford
+Amarachukwu Iku - MSc Data Science, University of Salford
