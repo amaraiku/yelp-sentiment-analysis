@@ -62,4 +62,4 @@ businesses detect service failures early and reinforce successful service patter
 
 ## Author
 
-Amarachukwu Iku - MSc Data Science, University of Salford
+Amarachukwu Iku 
